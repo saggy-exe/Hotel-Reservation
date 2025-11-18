@@ -1,18 +1,45 @@
-Hotel Reservation System 🏨
-Welcome to the Hotel Reservation System, a Java-based application for managing hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system simplifies the reservation process, enhances guest management, and keeps your business organized.
+# Hotel Reservation System 🏨
 
-Features 🌟
-Reserve a Room: Easily make new reservations by providing guest details, room numbers, and contact information.
+Welcome to the **Hotel Reservation System**, a Java-based application designed to manage hotel reservations efficiently. Whether you're running a small inn or a boutique hotel, this system streamlines the reservation process, enhances guest management, and keeps your operations organized.
 
-View Reservations: Get an overview of all current reservations, including guest names, room numbers, contact details, and reservation dates.
+---
 
-Edit Reservation Details: Update guest names, room numbers, and contact information for existing reservations.
+## Features 🌟
 
-Delete Reservations: Remove reservations that are no longer needed.
+### ✔ Reserve a Room
+Easily create new reservations by providing guest details, room numbers, and contact information.
 
-Usage 📋
-Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
+### ✔ View Reservations
+Access an overview of all current reservations, including:
+- Guest names  
+- Room numbers  
+- Contact details  
+- Reservation dates  
 
-Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
+### ✔ Edit Reservation Details
+Modify existing bookings by updating:
+- Guest names  
+- Room numbers  
+- Contact information  
+
+### ✔ Delete Reservations
+Remove reservations that are no longer needed.
+
+---
+
+## Usage 📋
+
+1. Run the application.  
+2. A menu will appear with options to:
+   - Make a reservation  
+   - View reservations  
+   - Edit reservation details  
+   - Delete a reservation  
+   - Exit the system  
+
+3. Follow the on-screen prompts to enter or manage reservation data.
+
+---
 
 Happy booking! 🌆
+
